@@ -1,6 +1,6 @@
 ## [Personal Motivation Statement](Statement)
 
-![Image of Yaktocat](https://github.com/Yiwen221/Yiwen_Xu_Portfolio/blob/gh-pages/zamonien1.jpg)
+![Image of Yaktocat](zamonien1.jpg)
 
 
 
