@@ -1,4 +1,4 @@
-[## Personal Motivation Statement](https://github.com/Yiwen221/Yiwen_Xu_Portfolio/blob/gh-pages/Statement)
+[## Personal Motivation Statement](https://github.com/Yiwen221/Yiwen_Xu_Portfolio/blob/gh-pages/Statement.md#personal-motivation-statement)
 
 
 
