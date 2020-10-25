@@ -1,3 +1,8 @@
+[## Personal Motivation Statement](https://github.com/Yiwen221/Yiwen_Xu_Portfolio/releases/tag/assignment10%2F22)
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Yiwen221/Yiwen_Xu_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
