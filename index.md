@@ -1,6 +1,6 @@
 ## [Personal Motivation Statement](Statement)
 ## 7in7 
-### [1]() [2]() [3]() [4]() [5]() [6]() [7]()
+### [1](Day1) [2]() [3]() [4]() [5]() [6]() [7]()
 
 ![Image of Yaktocat](zamonien1.jpg)
 
