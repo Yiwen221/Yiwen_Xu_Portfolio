@@ -11,3 +11,6 @@ So I did a research to find out what things made more people stop sending postca
 
 ### Concept Sketch
 ![cs](cs.jpg)
+
+### Prototype
+![bus](DSC_0839.jpg)
