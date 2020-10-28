@@ -18,3 +18,4 @@ This is a chapter from one of my favorite writer Italo Calvino.
 
 I want to make a board game with this concept.
 
+![bg](bg.jpg)
