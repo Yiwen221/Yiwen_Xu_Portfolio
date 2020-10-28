@@ -1,4 +1,4 @@
-## DAY3 : Life Sharing
+## DAY3 : Life Sharing Community
 ### Inspiration
 ![HK](HK.jpg)
 ![HK2](HK2.jpg)
@@ -8,3 +8,7 @@ The “shared life” model has gradually increased its attention around the wor
 ### Hypothesis
 ![share](IMG123.png)
 ![frame](7.jpg)
+
+### Prototype
+![lsc](MG124.png)
+![lsc2](MG125.png)
