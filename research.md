@@ -86,7 +86,7 @@ The first time I actually sent a postcard to a friend from a distant place is wh
 
 I have received postcards from Sri Lanka, Britain and other places. Most of them are postcards with pictures of local attractive scenic spots and historic sites. 
 
-![gift2](psb(8).jpeg)
+![gift2](psb (8).jpeg)
 
 After I went to college, I have sent a postcard to my math teacher at middle school. It was supposed to be the gift for Teachers’ Day, but the mail didn’t arrive on time. A few days after the Teachers’ Day, she received that card and the gift. She was still very touched and feel like it was Teachers’ Day all over again! It is the beauty of information lag! 
 
