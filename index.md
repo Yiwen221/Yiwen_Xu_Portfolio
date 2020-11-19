@@ -4,6 +4,9 @@
 ## [Post-Mortem](PostMortem)
 ## [5 concepts](FConcept)
 ## [Research](research)
+## [Storyboard](storyboard)
+## [Physical](physical)
+## [Digital](digital)
 
 ![Image of Yaktocat](zamonien1.jpg)
 
