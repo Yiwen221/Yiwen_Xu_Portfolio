@@ -7,22 +7,22 @@ Here are some thoughts for my book:
 
 ### Chapter 1. Calendar of 2010
 
-[calen](JANUARY 2010.pdf)
+![calen](JANUARY 2010.pdf)
 
 ### Chapter 2. Puzzles
 
-[puzzle](1521606810188_.pic_hd.jpg)
+![puzzle](1521606810188_.pic_hd.jpg)
 
-[secret](1491606810186_.pic_hd.jpg)
+![secret](1491606810186_.pic_hd.jpg)
 
 ### Chapter 3. Flip Animation
 
-[fa](1561606810191_.pic_hd.jpg)
+![fa](1561606810191_.pic_hd.jpg)
 
 ### Chapter 4. Story of Postcards
 
-[sop](image-asset (1).jpeg)
+![sop](image-asset (1).jpeg)
 
 ### Chapter 5. The Light-Year
 
-[ly](1531606810188_.pic_hd.jpg)
+![ly](1531606810188_.pic_hd.jpg)
