@@ -7,7 +7,7 @@ Here are some thoughts for my book:
 
 ### Chapter 1. Calendar of 2010
 
-![calen](JANUARY 2010.pdf)
+![calen](JANUARY 2010.jpg)
 
 ### Chapter 2. Puzzles
 
@@ -21,7 +21,7 @@ Here are some thoughts for my book:
 
 ### Chapter 4. Story of Postcards
 
-![sop](image-asset (1).jpeg)
+![sop](image-asset (1).jpg)
 
 ### Chapter 5. The Light-Year
 
