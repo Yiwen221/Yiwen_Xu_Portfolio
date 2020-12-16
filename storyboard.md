@@ -1,2 +1,2 @@
 # storyboard
-[story](storyboard.jpg)
+![story](storyboard.jpg)
