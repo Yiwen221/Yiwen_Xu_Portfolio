@@ -9,7 +9,7 @@
 ## [Digital](digital)
 ## [iteration: keywords](keywords)
 ## [iteration](iteration1)
-## [Final Statement](Final Statement)
+## [final statement](Final Statement)
 
 ![Image of Yaktocat](zamonien1.jpg)
 
